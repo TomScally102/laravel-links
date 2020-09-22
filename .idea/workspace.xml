@@ -24,8 +24,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad59d907-be90-4349-82f7-5f7e13e0cc41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ad59d907-be90-4349-82f7-5f7e13e0cc41" name="Default Changelist" comment="database update">
+      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +66,16 @@
       <option name="presentableId" value="Default" />
       <updated>1600788231820</updated>
       <workItem from="1600788234629" duration="2446000" />
-      <workItem from="1600791171152" duration="1638000" />
+      <workItem from="1600791171152" duration="2034000" />
     </task>
+    <task id="LOCAL-00001" summary="database update">
+      <created>1600793736402</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600793736402</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,15 +92,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="database update" />
+    <option name="LAST_COMMIT_MESSAGE" value="database update" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="484" y="169" key="#PHP" timestamp="1600793149470">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="484" y="169" key="#PHP/0.23.1680.972/1680.23.1440.877@0.23.1680.972" timestamp="1600793149470" />
-    <state x="440" y="249" key="Vcs.Push.Dialog.v2" timestamp="1600791545893">
+    <state x="440" y="249" key="Vcs.Push.Dialog.v2" timestamp="1600793744365">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state x="440" y="249" key="Vcs.Push.Dialog.v2/0.23.1680.972/1680.23.1440.877@0.23.1680.972" timestamp="1600791545893" />
+    <state x="440" y="249" key="Vcs.Push.Dialog.v2/0.23.1680.972/1680.23.1440.877@0.23.1680.972" timestamp="1600793744365" />
     <state x="505" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1600790536601">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
