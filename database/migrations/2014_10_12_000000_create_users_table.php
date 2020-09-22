@@ -17,9 +17,12 @@ class CreateUsersTable extends Migration
             $table->id();
             $table->string('email')->unique();
             $table->string('username')->unique();
+            $table->string('full_name');
             $table->string('password');
+            $table->string('serial_code')->unique();
             $table->string('background_color')->default('#ffffff');
             $table->string('text_color')->default('#000000');
+            $table->string('photo_url');
             $table->rememberToken();
             $table->timestamps();
         });

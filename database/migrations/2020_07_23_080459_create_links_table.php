@@ -18,6 +18,8 @@ class CreateLinksTable extends Migration
             $table->integer('user_id');
             $table->string('name');
             $table->text('link');
+            $table->boolean('night');
+            $table->boolean('day');
             $table->timestamps();
         });
     }
